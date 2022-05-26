@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lavr ./ ../ /boot
+ls -laSr ./ ../ /boot
